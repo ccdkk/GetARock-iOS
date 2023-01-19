@@ -9,4 +9,5 @@ import UIKit
 
 enum StringLiteral {
 //    static let exampleString = "안녕하세요"
+    static let test = "test"
 }
